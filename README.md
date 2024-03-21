@@ -19,4 +19,4 @@
 
 # to view the documentation of api's
 
-###- http://127.0.0.1:8000/docs  (SWAGGER DOCUMENTATION)
+### http://127.0.0.1:8000/docs  (SWAGGER DOCUMENTATION)
